@@ -26,3 +26,31 @@ python (python.org). Ikuti langkah instalasinya.
 
 7. Sesudah menginstall extension, python siap digunakan. Untuk menjalankan program klik run/tombol play di pojok kiri 
 ![5](Gambar/gambar3.png)
+
+8. Dasar syntax pada python
+
+- Penulisan Statement Python
+- Penulisan satu statement tidak diakhiri dengan tanda titik-koma.
+- Sedangkan, bila kita ingin menulis lebih dari satu statement dalam
+satu baris, maka kita harus memisahnya dengan titik-koma.
+
+- Penulisan String pada Python
+- String dalam pemrograman biasanya ditulis dengan dibungkus
+menggunakan tanda petik.
+- Bisa menggunakan tanda petik tunggal maupun ganda.
+- Atau kita juga bisa menggunakan triple tanda petik.
+
+Syntax Dasar Python
+
+- Case Sensitive
+- Sintak Python bersifat case sensitive, artinya huruf besar dengna
+huruf kecil dibedakan
+
+- Penulisan Blok Program Python
+- Blok program adalah kumpulan dari beberpaa statement yang
+digabungkan dalam satu blok.
+- Penulisan blok program harus ditambahkan indentasi (tab atau
+spasi 2x/4x).
+
+- Penulisan Komentar pada Python
+- Menggunakan tanda pagar (#)
