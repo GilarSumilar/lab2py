@@ -24,5 +24,5 @@ python (python.org). Ikuti langkah instalasinya.
 6. Setelah menginstall VScode, langsung ke menu extension/ctrl+shift+X, search python yang sudah centang lalu klik install
 ![4](Gambar/gambar4.png)
 
-7. Sesudah menginstall extension, python siap digunakan
+7. Sesudah menginstall extension, python siap digunakan. Untuk menjalankan program klik run/tombol play di pojok kiri 
 ![5](Gambar/gambar3.png)
