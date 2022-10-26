@@ -24,10 +24,13 @@ python (python.org). Ikuti langkah instalasinya.
 6. Setelah menginstall VScode, langsung ke menu extension/ctrl+shift+X, search python yang sudah centang lalu klik install
 ![4](Gambar/gambar4.png)
 
-7. Sesudah menginstall extension, python siap digunakan. Untuk menjalankan program klik run/tombol play di pojok kiri 
+7. Jangan lupa install code runer untuk menjalankan / run code kalian
+![](Gambar/gambar5.png)
+
+8. Sesudah menginstall extension, python siap digunakan. Untuk menjalankan program klik run/tombol play di pojok kiri 
 ![5](Gambar/gambar3.png)
 
-8. Dasar syntax pada python
+9. Dasar syntax pada python
 
 - Penulisan Statement Python
 - Penulisan satu statement tidak diakhiri dengan tanda titik-koma.
